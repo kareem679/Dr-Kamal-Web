@@ -138,7 +138,7 @@ const page = async () => {
 
             <div className="flex justify-end mx-5 mt-20">
               <button className="bg-cyan-600 my-5 text-white px-15 py-3 text-xl font-semibold rounded-xl hover:bg-cyan-700 hover:-translate-y-2 transition cursor-pointer ">
-                عرض المزيد
+                <Link href="/Views/About">عرض المزيد</Link>
               </button>
             </div>
           </div>
