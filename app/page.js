@@ -14,7 +14,7 @@ import AnimationPartCom from "./Components/Parts/AnimationPartCom";
 
 
 const page = async () => {
-  const images = ["/Images/Bg.jpg", "/Images/Bg.jpg", "/Images/Bg.jpg"];
+  const images = ["/Images/Sliders/benyamin-bohlouli-e7MJLM5VGjY-unsplash.jpg", "/Images/Sliders/caroline-lm--m-4tYmtLlI-unsplash.jpg", "/Images/Sliders/Bg.jpg"];
   const CardsList = [
     {
       Name: "تقويم للاطفال لتعديل نمو الفكين",
